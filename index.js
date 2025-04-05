@@ -1,7 +1,3 @@
-// TODO: Make better comments
-// Add try catch blocks for 'risky operations'
-// Make a .spec.ts file
-
 // EDIT THIS FILE TO COMPLETE ASSIGNMENT QUESTION 1
 const { chromium } = require("playwright");
 
